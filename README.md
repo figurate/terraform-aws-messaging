@@ -1,6 +1,6 @@
-# AWS SNS Topic
+# Terraform Module Template
 
-![AWS SNS Topic](aws_sns_topic.png)
+![Terraform Module Template](terraform\_module\_template.png)
 
 ## Requirements
 
@@ -8,11 +8,15 @@ No requirements.
 
 ## Providers
 
-No provider.
+| Name | Version |
+|------|---------|
+| aws | n/a |
 
 ## Inputs
 
-No input.
+| Name | Description | Type | Default | Required |
+|------|-------------|------|---------|:--------:|
+| name | Topic name | `any` | `null` | no |
 
 ## Outputs
 
