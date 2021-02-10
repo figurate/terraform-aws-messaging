@@ -1,5 +1,5 @@
 from diagrams import Diagram
-from diagrams.generic.blank import Blank
+from diagrams.aws.integration import SNS
 
-with Diagram("Terraform Module Template", show=False, direction="TB"):
-    Blank("module placeholder")
+with Diagram("AWS SNS Topic", show=False, direction="TB"):
+    SNS("sns topic")
