@@ -1,6 +1,6 @@
-# Terraform Module Template
+# AWS SNS Topic
 
-![Terraform Module Template](terraform\_module\_template.png)
+![AWS SNS Topic](aws\_sns\_topic.png)
 
 ## Requirements
 

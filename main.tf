@@ -1,7 +1,7 @@
 /**
- * # Terraform Module Template
+ * # AWS SNS Topic
  *
- * ![Terraform Module Template](terraform_module_template.png)
+ * ![AWS SNS Topic](aws_sns_topic.png)
  */
 resource "aws_sns_topic" "topic" {
   name              = var.name
