@@ -1,5 +1,7 @@
 # AWS SNS Topic
 
+[![CI](https://github.com/figurate/terraform-aws-sns-topic/actions/workflows/main.yml/badge.svg)](https://github.com/figurate/terraform-aws-sns-topic/actions/workflows/main.yml)
+
 ![AWS SNS Topic](aws\_sns\_topic.png)
 
 ## Requirements
